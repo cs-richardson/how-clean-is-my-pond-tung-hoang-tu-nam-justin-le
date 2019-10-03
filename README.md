@@ -9,3 +9,5 @@ how-clean-is-my-pond-tung-hoang-tu-nam-justin-le created by GitHub Classroom
 e.  How would you make it lower?  add ro subtract a tolerance level to the calibrated value?  be specific!
 i.  The buttons were actually sensors, not actuators.  A filter/pump would be an actuator.
 j.  good discussion of social/ethical impacts.
+
+Grade:  B.
